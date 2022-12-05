@@ -1,6 +1,6 @@
 const headerdiv = document.createElement('div')
-headerdiv.innerHTML ='welcome to thunderdome'
+headerdiv.innerHTML ='Welcome!'
     document.body.append(headerdiv)
 const heading = document.createElement('h5')
-    heading.innerHTML = "Easy to forget this shit."
+    heading.innerHTML = "Let's  practice"
     headerdiv.appendChild(heading)
